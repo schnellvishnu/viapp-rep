@@ -1,0 +1,646 @@
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.Form1.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Newtonsoft.Json.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Npgsql.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Npgsql.Json.NET.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Buffers.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Collections.Immutable.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Memory.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Text.Json.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Threading.Channels.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.ValueTuple.dll
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Newtonsoft.Json.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Npgsql.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\Npgsql.Json.NET.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Buffers.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Collections.Immutable.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Memory.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Numerics.Vectors.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Text.Json.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Threading.Channels.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\System.ValueTuple.xml
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive app.csproj.CopyComplete
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.mainForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.batchForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+D:\VISUAL STUDIO\demo2\Solution1\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+C:\1-3-2023-c#\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+C:\1-3-2023-c#\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+C:\1-3-2023-c#\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+C:\1-3-2023-c#\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\Newtonsoft.Json.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\Npgsql.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\Npgsql.Json.NET.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Buffers.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Collections.Immutable.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Memory.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Numerics.Vectors.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Text.Json.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Threading.Channels.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\System.ValueTuple.dll
+C:\1-3-2023-c#\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\Newtonsoft.Json.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\Npgsql.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\Npgsql.Json.NET.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Buffers.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Collections.Immutable.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Memory.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Numerics.Vectors.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Text.Json.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Threading.Channels.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\1-3-2023-c#\responsive app\bin\Debug\System.ValueTuple.xml
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.batchForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.Form1.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.mainForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+C:\1-3-2023-c#\responsive app\obj\Debug\responsive app.csproj.CopyComplete
+C:\1-3-2023-c#\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+C:\1-3-2023-c#\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Newtonsoft.Json.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Npgsql.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Npgsql.Json.NET.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Buffers.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Collections.Immutable.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Memory.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Numerics.Vectors.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Text.Json.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Threading.Channels.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.ValueTuple.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Newtonsoft.Json.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Npgsql.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\Npgsql.Json.NET.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Buffers.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Collections.Immutable.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Memory.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Numerics.Vectors.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Text.Json.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Threading.Channels.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\System.ValueTuple.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.batchForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.Form1.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.mainForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\responsive app.csproj.CopyComplete
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.manifest
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.application
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe.manifest
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\MAR-2-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.application
+D:\VISUAL STUDIO\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+D:\VISUAL STUDIO\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.manifest
+D:\VISUAL STUDIO\responsive app\bin\Debug\APPLICATION RESPONSIVE.application
+D:\VISUAL STUDIO\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\Newtonsoft.Json.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\Npgsql.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\Npgsql.Json.NET.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Buffers.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Collections.Immutable.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Memory.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Text.Json.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Threading.Channels.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.ValueTuple.dll
+D:\VISUAL STUDIO\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\Newtonsoft.Json.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\Npgsql.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\Npgsql.Json.NET.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Buffers.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Collections.Immutable.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Memory.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Numerics.Vectors.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Text.Json.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Threading.Channels.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VISUAL STUDIO\responsive app\bin\Debug\System.ValueTuple.xml
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.batchForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.Form1.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.mainForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe.manifest
+D:\VISUAL STUDIO\responsive app\obj\Debug\APPLICATION RESPONSIVE.application
+D:\VISUAL STUDIO\responsive app\obj\Debug\responsive app.csproj.CopyComplete
+D:\VISUAL STUDIO\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+Y:\new-app\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+Y:\new-app\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.manifest
+Y:\new-app\responsive app\bin\Debug\APPLICATION RESPONSIVE.application
+Y:\new-app\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+Y:\new-app\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+Y:\new-app\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\new-app\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+Y:\new-app\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\new-app\responsive app\bin\Debug\Newtonsoft.Json.dll
+Y:\new-app\responsive app\bin\Debug\Npgsql.dll
+Y:\new-app\responsive app\bin\Debug\Npgsql.Json.NET.dll
+Y:\new-app\responsive app\bin\Debug\System.Buffers.dll
+Y:\new-app\responsive app\bin\Debug\System.Collections.Immutable.dll
+Y:\new-app\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+Y:\new-app\responsive app\bin\Debug\System.Memory.dll
+Y:\new-app\responsive app\bin\Debug\System.Numerics.Vectors.dll
+Y:\new-app\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\new-app\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+Y:\new-app\responsive app\bin\Debug\System.Text.Json.dll
+Y:\new-app\responsive app\bin\Debug\System.Threading.Channels.dll
+Y:\new-app\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+Y:\new-app\responsive app\bin\Debug\System.ValueTuple.dll
+Y:\new-app\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Y:\new-app\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+Y:\new-app\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+Y:\new-app\responsive app\bin\Debug\Newtonsoft.Json.xml
+Y:\new-app\responsive app\bin\Debug\Npgsql.xml
+Y:\new-app\responsive app\bin\Debug\Npgsql.Json.NET.xml
+Y:\new-app\responsive app\bin\Debug\System.Buffers.xml
+Y:\new-app\responsive app\bin\Debug\System.Collections.Immutable.xml
+Y:\new-app\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+Y:\new-app\responsive app\bin\Debug\System.Memory.xml
+Y:\new-app\responsive app\bin\Debug\System.Numerics.Vectors.xml
+Y:\new-app\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\new-app\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+Y:\new-app\responsive app\bin\Debug\System.Text.Json.xml
+Y:\new-app\responsive app\bin\Debug\System.Threading.Channels.xml
+Y:\new-app\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+Y:\new-app\responsive app\bin\Debug\System.ValueTuple.xml
+Y:\new-app\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+Y:\new-app\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+Y:\new-app\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.batchForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.Form1.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.mainForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+Y:\new-app\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+Y:\new-app\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+Y:\new-app\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe.manifest
+Y:\new-app\responsive app\obj\Debug\APPLICATION RESPONSIVE.application
+Y:\new-app\responsive app\obj\Debug\responsive app.csproj.CopyComplete
+Y:\new-app\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+Y:\new-app\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+Y:\new-app\responsive app\obj\Debug\responsive_app.Printerdatagrid.resources
+Y:\new-app\responsive app\obj\Debug\responsive_app.printerjobs.resources
+Y:\new2\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+Y:\new2\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+Y:\new2\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.batchForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.Form1.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.mainForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.Printerdatagrid.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.printerjobs.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+Y:\new2\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+Y:\new2\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+Y:\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+Y:\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+X:\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+X:\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.manifest
+X:\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.application
+X:\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+X:\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+X:\new2\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\new2\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+X:\new2\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+X:\new2\responsive app\bin\Debug\Newtonsoft.Json.dll
+X:\new2\responsive app\bin\Debug\Npgsql.dll
+X:\new2\responsive app\bin\Debug\Npgsql.Json.NET.dll
+X:\new2\responsive app\bin\Debug\System.Buffers.dll
+X:\new2\responsive app\bin\Debug\System.Collections.Immutable.dll
+X:\new2\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\new2\responsive app\bin\Debug\System.Memory.dll
+X:\new2\responsive app\bin\Debug\System.Numerics.Vectors.dll
+X:\new2\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\new2\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+X:\new2\responsive app\bin\Debug\System.Text.Json.dll
+X:\new2\responsive app\bin\Debug\System.Threading.Channels.dll
+X:\new2\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\new2\responsive app\bin\Debug\System.ValueTuple.dll
+X:\new2\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+X:\new2\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+X:\new2\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+X:\new2\responsive app\bin\Debug\Newtonsoft.Json.xml
+X:\new2\responsive app\bin\Debug\Npgsql.xml
+X:\new2\responsive app\bin\Debug\Npgsql.Json.NET.xml
+X:\new2\responsive app\bin\Debug\System.Buffers.xml
+X:\new2\responsive app\bin\Debug\System.Collections.Immutable.xml
+X:\new2\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\new2\responsive app\bin\Debug\System.Memory.xml
+X:\new2\responsive app\bin\Debug\System.Numerics.Vectors.xml
+X:\new2\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\new2\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+X:\new2\responsive app\bin\Debug\System.Text.Json.xml
+X:\new2\responsive app\bin\Debug\System.Threading.Channels.xml
+X:\new2\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+X:\new2\responsive app\bin\Debug\System.ValueTuple.xml
+X:\new2\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+X:\new2\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+X:\new2\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.batchForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.Form1.resources
+X:\new2\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.mainForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.Printerdatagrid.resources
+X:\new2\responsive app\obj\Debug\responsive_app.printerjobs.resources
+X:\new2\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+X:\new2\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+X:\new2\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+X:\new2\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+X:\new2\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+X:\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe.manifest
+X:\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.application
+X:\new2\responsive app\obj\Debug\responsive app.csproj.CopyComplete
+X:\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+X:\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.manifest
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.application
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Newtonsoft.Json.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Npgsql.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Npgsql.Json.NET.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Buffers.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Collections.Immutable.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Memory.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Text.Json.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Threading.Channels.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.ValueTuple.dll
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Newtonsoft.Json.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Npgsql.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\Npgsql.Json.NET.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Buffers.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Collections.Immutable.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Memory.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Numerics.Vectors.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Text.Json.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Threading.Channels.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\bin\Debug\System.ValueTuple.xml
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.batchForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.Form1.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.mainForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.Printerdatagrid.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.printerjobs.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe.manifest
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.application
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\responsive app.csproj.CopyComplete
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\demo2\new2\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.batchForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.Form1.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.mainForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.Printerdatagrid.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.printerjobs.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.manifest
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\APPLICATION RESPONSIVE.application
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Newtonsoft.Json.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Npgsql.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Npgsql.Json.NET.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Buffers.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Collections.Immutable.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Memory.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Text.Json.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Threading.Channels.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.ValueTuple.dll
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Newtonsoft.Json.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Npgsql.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\Npgsql.Json.NET.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Buffers.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Collections.Immutable.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Memory.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Numerics.Vectors.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Text.Json.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Threading.Channels.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VISUAL STUDIO\new3\responsive app\bin\Debug\System.ValueTuple.xml
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe.manifest
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\APPLICATION RESPONSIVE.application
+D:\VISUAL STUDIO\new3\responsive app\obj\Debug\responsive app.csproj.CopyComplete
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.manifest
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.application
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Newtonsoft.Json.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Npgsql.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Npgsql.Json.NET.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Buffers.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Collections.Immutable.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Memory.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Numerics.Vectors.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Text.Json.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Threading.Channels.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.ValueTuple.dll
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Newtonsoft.Json.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Npgsql.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\Npgsql.Json.NET.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Buffers.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Collections.Immutable.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Memory.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Numerics.Vectors.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Text.Json.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Threading.Channels.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\bin\Debug\System.ValueTuple.xml
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.batchForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.Form1.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.mainForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.Printerdatagrid.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.printerjobs.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe.manifest
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.application
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.CopyComplete
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+X:\APPLICATION SERVER-VISUALSTUDIO-C#\JULY-7-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.SuggestedBindingRedirects.cache
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.AddjobForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.AuditlogiconForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.batchForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.ChangepasswordiconForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.Form1.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.InformationiconForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.LogouticonForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.mainForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.PreferencesiconForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.Printerdatagrid.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.printerjobs.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.productionreportForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.Properties.Resources.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.ReporticonForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.ReworkiconForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive_app.TNTDashboardForm2.resources
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.config
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe.manifest
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.application
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.exe
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\APPLICATION RESPONSIVE.pdb
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Newtonsoft.Json.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Npgsql.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Npgsql.Json.NET.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Buffers.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Collections.Immutable.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Memory.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Numerics.Vectors.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Text.Encodings.Web.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Text.Json.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Threading.Channels.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.ValueTuple.dll
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Newtonsoft.Json.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Npgsql.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\Npgsql.Json.NET.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Buffers.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Collections.Immutable.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Memory.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Numerics.Vectors.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Text.Encodings.Web.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Text.Json.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Threading.Channels.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\bin\Debug\System.ValueTuple.xml
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.exe.manifest
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\APPLICATION RESPONSIVE.application
+D:\VISUAL STUDIO\JULY-7-2023\responsive app\obj\Debug\responsive app.csproj.CopyComplete
